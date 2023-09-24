@@ -1,0 +1,32 @@
+baseURL = 'https://MariamShaikh.github.io/MariamShaikh.io/'
+languageCode = 'en-us'
+title = 'KubeSkills'
+
+[build]
+  publishDir = "public"
+[permalinks]
+    blog = "/:filename/"
+[menu]
+    [[menu.main]]
+        name= "Home"
+        url = "/home/"
+        weight = 1
+    [[menu.main]]
+        name= "Blog"
+        url = "/blog/"
+        weight = 2
+    [[menu.main]]
+        name= "Content"
+        url = "/content/"
+        weight = 3
+    [[menu.main]]
+        name= "Community"
+        url = "/community/"
+        weight = 4
+[params]
+  containerMaxWidth = "700px"
+  dateFormat = "Sept 2, 2023"
+  homeText = "KubeSkills"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

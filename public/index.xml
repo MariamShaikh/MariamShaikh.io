@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KubeSkills</title>
+    <link>https://MariamShaikh.github.io/KubeSkills/</link>
+    <description>Recent content on KubeSkills</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 23:21:51 +0500</lastBuildDate><atom:link href="https://MariamShaikh.github.io/KubeSkills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://MariamShaikh.github.io/KubeSkills/home/home/</link>
+      <pubDate>Wed, 20 Sep 2023 23:21:51 +0500</pubDate>
+      
+      <guid>https://MariamShaikh.github.io/KubeSkills/home/home/</guid>
+      <description>PAGE UNDER DEVELOPMENT</description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://MariamShaikh.github.io/KubeSkills/community/community/</link>
+      <pubDate>Wed, 20 Sep 2023 23:18:38 +0500</pubDate>
+      
+      <guid>https://MariamShaikh.github.io/KubeSkills/community/community/</guid>
+      <description>PAGE UNDER DEVELOPMENT</description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://MariamShaikh.github.io/KubeSkills/content/content/</link>
+      <pubDate>Wed, 20 Sep 2023 23:04:39 +0500</pubDate>
+      
+      <guid>https://MariamShaikh.github.io/KubeSkills/content/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://MariamShaikh.github.io/KubeSkills/blog-post/</link>
+      <pubDate>Wed, 20 Sep 2023 22:47:32 +0500</pubDate>
+      
+      <guid>https://MariamShaikh.github.io/KubeSkills/blog-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
