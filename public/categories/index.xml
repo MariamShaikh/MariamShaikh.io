@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on KubeSkills</title>
-    <link>https://MariamShaikh.github.io/KubeSkills/categories/</link>
+    <link>https://MariamShaikh.github.io/MariamShaikh.io/categories/</link>
     <description>Recent content in Categories on KubeSkills</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://MariamShaikh.github.io/KubeSkills/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://MariamShaikh.github.io/MariamShaikh.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'KubeSkills'
 
 [build]
-  publishDir = "public"
+  publishDir = "docs"
 [permalinks]
     blog = "/:filename/"
 [menu]
